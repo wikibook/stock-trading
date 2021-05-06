@@ -14,7 +14,7 @@ decorator==4.4.0
 defusedxml==0.5.0
 entrypoints==0.3
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 gevent==1.4.0
 greenlet==0.4.15
